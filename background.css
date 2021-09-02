@@ -1,0 +1,4 @@
+.foldableText, .foldableText > div, .foldableText > span{
+    direction: rtl;
+    text-align: right;
+}
